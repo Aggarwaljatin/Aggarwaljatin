@@ -1,0 +1,37 @@
+.t{
+    padding: 40px;
+    margin:  30px;
+  }
+ body{ background-color: rgb(255, 253, 251);}
+ .b{
+    border-bottom:  1px solid black;
+ }
+ .a{text-align: center;}
+ .d{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
+          
+ .searchbar{
+ background-color: rgb(5, 85, 5);
+ color: antiquewhite;  
+ }
+ 
+ .check{
+  padding-left: 90px;
+  margin-left: 120px;
+  margin-top: 80px;
+  float: left;
+ }
+ .last{
+   float: right;
+   margin-top: 90px;
+   padding: 70px;
+ }
+ .third{
+   padding: 120px;
+  margin-top: 50px;
+   float: left;
+ }
+ 
